@@ -9,6 +9,3 @@ dependencies:
   - dill
   - pandas
   - partd
-  - bokeh
-  - dask
-  - ipympl
