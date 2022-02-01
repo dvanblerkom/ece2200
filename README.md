@@ -3,7 +3,7 @@
 
 You can see the notebooks by clicking on them directly from the github directory listing.  However, in this case you cannot change any cells.
 
-You can interact with the notebooks by starting a jupyter notebook session - click on the Binder launch button above.  Note that setting up the Binder session can sometime take a minute or two, since it is running in the cloud.
+You can interact with the notebooks by starting a jupyter notebook session - click on the Binder launch button above.  Note that setting up the Binder session can sometime take a minute or two, since it is running in the cloud.  Note also that any changes you make to the notebook will not be permanently saved, unless you download the notebook to your own computer.
 
 Another option is to install jupyter-lab (https://jupyter.org/) on your own machine and download the notebooks to play with them off-line.
 
